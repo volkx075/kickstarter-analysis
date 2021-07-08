@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to see if there is a relation between different campaigns launch dates and their funding goals. 
+Louise, a playwrite, was close to her fundraising goal for her play, "Fever." She would like to know how other plays did compared to her play by looking at their launch dates and funding goals. The purpose of this analysis is to see if plays were successful or not based on their campaigns' launch dates and their funding goals. 
 
 ## Analysis and Challenges
 
