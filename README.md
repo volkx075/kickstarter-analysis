@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-Louise, a playwrite, was close to her fundraising goal for her play, "Fever." She would like to know how other plays did compared to her play by looking at their launch dates and funding goals. The purpose of this analysis is to see if plays were successful or not based on their campaigns' launch dates and their funding goals. 
+Louise, a playwright, was close to her fundraising goal for her play, "Fever." She would like to know how other plays did compared to her play by looking at their launch dates and funding goals. The purpose of this analysis is to see if plays were successful or not based on their campaigns' launch dates and their funding goals. 
 
 ## Analysis and Challenges
 
@@ -18,15 +18,15 @@ Second, I looked at the funding goals. I created a chart based on 12 goal ranges
 ![Outcomes Based on Goals](Images/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-I came across no challenges or difficulties during this analysis. However, there are possible ones I could have crossed. One difficulty could have been when using the COUNTIFS function for the analysis of "Outcomes Based on Goals. The function required four ranges for four criteria and two of the criterias I needed to use the goal ranges along with the column range from the Kickstarter worksheet. With four criterias, there is a lot of room for error. If I had flipped the greater than symbol with the less than symbol, then it would have affected the data for that whole goal range. Therefore, also affecting the "Outcomes Based on Goals" graph. What if I made that mistake again or made a similar one after? It could have been a mess. This is why it is so important to double check my work before moving on to a new step. 
+I came across no challenges or difficulties during this analysis. However, there are possible ones I could have crossed. One difficulty could have been when using the COUNTIFS function for the analysis of "Outcomes Based on Goals. The function required four ranges for four criteria and two of the criteria I needed to use the goal ranges along with the column range from the Kickstarter worksheet. With four criteria, there is a lot of room for error. If I had flipped the greater than symbol with the less than symbol, then it would have affected the data for that whole goal range. Therefore, also affecting the "Outcomes Based on Goals" graph. What if I made that mistake again or made a similar one after? It could have been a mess. This is why it is so important to double check my work before moving on to a new step. 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?\
-  Looking at the "Outcomes Based on Launch Date" graph, theater performances have the most successes in May and June, even in July. I can conclude it is ideal to start theater performances in the months of May, June or July because there is a higher chance it will succeed. Also, in December the count of successful and failed theater performances are very close on the graph. Therefore, I can conclude it is not ideal to start theater performances in Decemeber because it has close to the same chance of succeeding as it does failing.
+  Looking at the "Outcomes Based on Launch Date" graph, theater performances have the most successes in May and June, even in July. I can conclude it is ideal to start theater performances in the months of May, June or July because there is a higher chance it will succeed. Also, in December the count of successful and failed theater performances are very close on the graph. Therefore, I can conclude it is not ideal to start theater performances in December because it has close to the same chance of succeeding as it does failing.
 
 - What can you conclude about the Outcomes based on Goals?\
-  Looking at the "Outcomes Based on Goals" graph, the percentages of succesful plays are high if the goal is less than $5,000. There is a surge in percentages from $35,000 to $44,999, however, the percentages are not as high as they are if the goal is lower than $5,000. Therefore, I can conclude that it is ideal for plays to make a goal of less than $5,000 because there is a higher chance the play will succeed.
+  Looking at the "Outcomes Based on Goals" graph, the percentages of successful plays are high if the goal is less than $5,000. There is a surge in percentages from $35,000 to $44,999, however, the percentages are not as high as they are if the goal is lower than $5,000. Therefore, I can conclude that it is ideal for plays to make a goal of less than $5,000 because there is a higher chance the play will succeed.
   
 - What are some limitations of this dataset?\
   One limitation of this dataset is the outliers of fundraising goals for plays. There are 12 plays that have a goal of over $50,000. Of the 12 plays, 2 were successful and 10 failed. These outliers caused the mean to be higher than the median for both successful and failed plays. Could we have just removed the outliers? Yes. Would they still be outliers if we had more data for plays? We don't know. We would have to collect more data in order to prove whether or not they would still be outliers.
