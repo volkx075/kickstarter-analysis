@@ -28,7 +28,8 @@ I came across no challenges or difficulties during this analysis. However, there
 - What can you conclude about the Outcomes based on Goals?\
   Looking at the "Outcomes Based on Goals" graph, the percentages of succesful plays are high if the goal is less than $5,000. There is a surge in percentages from $35,000 to $44,999, however, the percentages are not as high as they are if the goal is lower than $5,000. Therefore, I can conclude that it is ideal for plays to make a goal of less than $5,000 because there is a higher chance the play will succeed.
   
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?\
+  One limitation of this dataset is the outliers of fundraising goals for plays. There are 12 plays that have a goal of over $50,000. Of the 12 plays, 2 were successful and 10 failed. These outliers caused the mean to be higher than the median for both successful and failed plays. Could we have just removed the outliers? Yes. Would they still be outliers if we had more data for plays? We don't know. We would have to collect more data in order to prove whether or not they would still be outliers.
 
 - What are some other possible tables and/or graphs that we could create?\
   One possible table we could have created is how long plays ran for vs. successful, failed, and canceled plays. For example, 3 successful plays ran for 3 months. From there, we could create a chart to show a visual of what is in the table. This way we can see if the length of plays impact if a show is successful, failed or canceled.
