@@ -31,4 +31,4 @@ I came across no challenges or difficulties during this analysis. However, there
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?\
-  One possible table we could have created is how long plays ran for vs. successful, failed, and canceled plays. For example, 3 successful plays ran for 3 months. From there, we could create a chart to show a visual of what is in the chart. This way we can see if the length of plays impact if a show is successful, failed or canceled.
+  One possible table we could have created is how long plays ran for vs. successful, failed, and canceled plays. For example, 3 successful plays ran for 3 months. From there, we could create a chart to show a visual of what is in the table. This way we can see if the length of plays impact if a show is successful, failed or canceled.
